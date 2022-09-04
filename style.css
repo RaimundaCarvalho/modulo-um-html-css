@@ -1,0 +1,21 @@
+.primeirasListas{
+    color: blue;
+}
+.segundasListas{
+    color: chartreuse;
+}
+
+#titulo{
+    color:blue;
+}
+
+.paragrafo{
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 20px;
+    line-height:1.5;
+    border-width: 5px;
+    border:solid;
+    border-color: red;
+}
+
