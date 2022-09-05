@@ -19,3 +19,62 @@
     border-color: red;
 }
 
+
+*{
+    margin:0;
+    padding: 0;
+    outline: 0;
+}
+
+boby{
+    font-family: 'roboto';
+}
+
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-left: 100px;
+    padding-right: 10px;
+    width: 100%;
+    background-color: #f2f1f1;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 16px;
+
+}
+
+.avatar{
+    width: 180px;
+    height: 180px;
+    border-radius: 200px;
+
+}
+
+.container-sobre {
+    display: flex;
+}
+
+.sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 32px;
+
+}
+
+.nome{
+    color: brown;
+    font-size:26px;
+    font-weight: bold;
+
+}
+
+.container-descricao{
+    padding-top: 12px;
+}
+
+.descricao{
+    line: height 20px;
+    color:cornflowerblue;
+}
